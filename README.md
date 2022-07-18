@@ -26,7 +26,7 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR 
-* [Test cases](tu link do google drive z plikiem z test case)
+* [Test cases]https://drive.google.com/file/d/177c0DRIRcS3Lb_FjXX3px7rSX3Lv0RVP/view?usp=sharing
 ## MY BUGS
 ## MY BUGS FOR 
 * [nazwa buga](link do buga z google drive)
