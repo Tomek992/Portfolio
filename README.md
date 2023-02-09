@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+Doskonale odnajduję się na stanowisku, gdzie moim zadaniem jest odnajdywanie defektów/błędów oraz naprawa ich. Ukończyłem Szkolenie indywidualne - tester manualny przeprowadzone przez Wyszkolewas - Waldemar Szafraniec i z tym wiążę swój następny krok zawodowy. 
 ## TOOLS
 * Jira
 * TestLink
@@ -12,9 +12,10 @@ I am young student with many technical skills. I am very motivated to become QA
 * SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 05.04.2022
+Szkolenie Indywidualne tester manualny 
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* Praktyczny kurs testowanie oprogramowania - Udemy Testowanie Oprogramowania
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
@@ -25,8 +26,7 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
-## MY TEST CASE EXAMPLES FOR 
-* [Test cases]https://drive.google.com/file/d/177c0DRIRcS3Lb_FjXX3px7rSX3Lv0RVP/view?usp=sharing
+* https://drive.google.com/drive/u/0/folders/1Ywwz_eQ0RX9G2uU8V_Cdwz7vgQnwA0iu
 ## MY BUGS
 ## MY BUGS FOR 
 * [nazwa buga](link do buga z google drive)
@@ -34,5 +34,5 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 
 ## MY REPORT
 ## MY REPORT FOR 
-* [Report PDF](Link do raportu PDF)
-* [Report Excell](Link do raportu Excell)
+* [Report PDF]  https://drive.google.com/drive/u/0/folders/1Ywwz_eQ0RX9G2uU8V_Cdwz7vgQnwA0iu )
+* [Report Excell] https://drive.google.com/drive/u/0/folders/1Ywwz_eQ0RX9G2uU8V_Cdwz7vgQnwA0iu
