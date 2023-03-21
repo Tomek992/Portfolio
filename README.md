@@ -27,12 +27,6 @@ Szkolenie Indywidualne tester manualny
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
 * https://drive.google.com/file/d/1umU8v-pcc8J7LJbN3awqbBrXdGG-ykE4/view
-## MY BUGS
-## MY BUGS FOR 
-* [nazwa buga](link do buga z google drive)
-* [nazwa buga](link do buga z google drive)
-
-## MY REPORT
-## MY REPORT FOR 
+## MY REPORT  
 * [Report PDF]  https://drive.google.com/file/d/1GjC7UWtMDzGaM42FENpexoRwj1OXV0of/view?usp=share_link
 * [Report Excell] https://drive.google.com/file/d/11vvoMTuKqxQP8z8wD2AThTSeI3X2adfz/view?usp=share_link
